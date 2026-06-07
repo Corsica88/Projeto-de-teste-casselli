@@ -1,0 +1,7 @@
+{
+    "dotnetAcquisitionExtension.allowInvalidPaths": true,
+    "dotnetAcquisitionExtension.enablePreviewFeatures": true,
+    "dotnetAcquisitionExtension.highVerbosity": true,
+    "dotnetAcquisitionExtension.showResetDataCommand": true,
+    "dotnetAcquisitionExtension.suppressOutput": true
+}
