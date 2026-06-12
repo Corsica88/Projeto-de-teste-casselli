@@ -5,6 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         
+<<<<<<< HEAD
         
         
 
@@ -12,6 +13,8 @@
         
 
         
+=======
+>>>>>>> 182904e (Configures VS Code for local development)
 
     ]
 }
